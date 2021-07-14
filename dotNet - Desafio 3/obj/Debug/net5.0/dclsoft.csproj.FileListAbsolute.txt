@@ -1,0 +1,16 @@
+C:\Users\giova\OneDrive\Área de Trabalho\dclsoft\dotNet - Desafio 3\bin\Debug\net5.0\dclsoft.exe
+C:\Users\giova\OneDrive\Área de Trabalho\dclsoft\dotNet - Desafio 3\bin\Debug\net5.0\dclsoft.deps.json
+C:\Users\giova\OneDrive\Área de Trabalho\dclsoft\dotNet - Desafio 3\bin\Debug\net5.0\dclsoft.runtimeconfig.json
+C:\Users\giova\OneDrive\Área de Trabalho\dclsoft\dotNet - Desafio 3\bin\Debug\net5.0\dclsoft.runtimeconfig.dev.json
+C:\Users\giova\OneDrive\Área de Trabalho\dclsoft\dotNet - Desafio 3\bin\Debug\net5.0\dclsoft.dll
+C:\Users\giova\OneDrive\Área de Trabalho\dclsoft\dotNet - Desafio 3\bin\Debug\net5.0\ref\dclsoft.dll
+C:\Users\giova\OneDrive\Área de Trabalho\dclsoft\dotNet - Desafio 3\bin\Debug\net5.0\dclsoft.pdb
+C:\Users\giova\OneDrive\Área de Trabalho\dclsoft\dotNet - Desafio 3\obj\Debug\net5.0\dclsoft.csprojAssemblyReference.cache
+C:\Users\giova\OneDrive\Área de Trabalho\dclsoft\dotNet - Desafio 3\obj\Debug\net5.0\dclsoft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giova\OneDrive\Área de Trabalho\dclsoft\dotNet - Desafio 3\obj\Debug\net5.0\dclsoft.AssemblyInfoInputs.cache
+C:\Users\giova\OneDrive\Área de Trabalho\dclsoft\dotNet - Desafio 3\obj\Debug\net5.0\dclsoft.AssemblyInfo.cs
+C:\Users\giova\OneDrive\Área de Trabalho\dclsoft\dotNet - Desafio 3\obj\Debug\net5.0\dclsoft.csproj.CoreCompileInputs.cache
+C:\Users\giova\OneDrive\Área de Trabalho\dclsoft\dotNet - Desafio 3\obj\Debug\net5.0\dclsoft.dll
+C:\Users\giova\OneDrive\Área de Trabalho\dclsoft\dotNet - Desafio 3\obj\Debug\net5.0\ref\dclsoft.dll
+C:\Users\giova\OneDrive\Área de Trabalho\dclsoft\dotNet - Desafio 3\obj\Debug\net5.0\dclsoft.pdb
+C:\Users\giova\OneDrive\Área de Trabalho\dclsoft\dotNet - Desafio 3\obj\Debug\net5.0\dclsoft.genruntimeconfig.cache
